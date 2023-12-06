@@ -1,10 +1,1 @@
-{
-  "usuarios": [
-    {
-      "id": 1,
-      "email": "neilton@alura.com",
-      "senha": "123456",
-      "nome": "Neilton Seguins"
-    }
-  ]
-}
+{"usuarios":[{"id":1,"email":"neilton@alura.com","senha":"123456","nome":"Neilton Seguins"},{"id":2,"email":"gui@email.com","senha":"123","nome":"Guilherme"},{"id":3,"email":"gui@email.com","senha":"123","nome":"Guilherme"},{"id":4,"email":"guix@email.com","senha":"123","nome":"Guilherme"},{"id":5,"email":"guix@email.com","senha":"123","nome":"Guilherme"},{"id":6,"email":"gu@email.com","senha":"123","nome":"Guilherme"},{"id":7,"email":"gu@email.com","senha":"123","nome":"Guilherme"},{"id":8,"email":"g@email.com","senha":"123","nome":"Guilherme"},{"id":9,"email":"email@email.com","senha":"123","nome":"Guilherme"},{"id":10,"email":"email@email.com","senha":"123","nome":"Guilherme"}]}
